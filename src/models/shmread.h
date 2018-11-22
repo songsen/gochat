@@ -1,0 +1,2 @@
+
+char* readshmm(char *path);
